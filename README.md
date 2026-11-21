@@ -1,8 +1,8 @@
-# Variable DC Bench Power Supply (LM317) — PCB Design & Build
+# Variable DC Bench Power Supply (LM317): PCB Design & Build
 
 An AC-to-DC **variable bench power supply** that was designed, laid out, built into an enclosure and safety-tested. Mains (115 VAC, 60 Hz) goes through a fused transformer, a rectifier and filter, and an **LM317** adjustable linear regulator. The output is adjustable from about **2 V to 14 V** on front-panel binding posts.
 
-Team project of two for **ECP455 – Electronic Circuit Prototyping**, Computer Engineering Technology, Seneca Polytechnic (Winter 2024).
+Team project of two for **ECP455 Electronic Circuit Prototyping**, Computer Engineering Technology, Seneca Polytechnic (Winter 2024).
 
 **Skills shown:** linear power-supply design · schematic capture and PCB layout (PADS) · Gerber/drill output for fabrication · component selection and BOM costing (Digi-Key) · enclosure build and mains wiring · electrical safety testing
 
