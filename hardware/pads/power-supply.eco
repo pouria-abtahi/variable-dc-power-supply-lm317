@@ -1,0 +1,286 @@
+*PADS-ECO-V10.0-MILS*
+
+*REMARK* -- LM317-power-supply.ECP455.NCC.pcb -- Wed Mar 13 12:32:14 2024
+
+*END*
+*PADS-ECO-V10.0-MILS*
+
+*REMARK* -- LM317-power-supply.ECP455.NCC.pcb -- Wed Mar 13 12:34:59 2024
+
+
+*PART*
+X1 MTHOLE2
+
+*SET_ATTRIBUTE* PARTTYPE MTHOLE2
+"Description" MOUNTING HOLE 200 MIL ROUND
+"Cost" 
+"Part Number" MTHOLE2
+"Manufacturer #1" 
+
+*PART*
+X2 MTHOLE2
+X3 MTHOLE2
+X4 MTHOLE2
+*END*
+*PADS-ECO-V10.0-INCHES*
+
+*REMARK* -- LM317-power-supply.ECP455.NCC.pcb -- Wed Mar 13 12:45:02 2024
+
+
+*DELPART*
+X1 MTHOLE2
+
+*PART*
+X1 MTHOLE2
+*END*
+*PADS-ECO-V10.0-MILS*
+
+*REMARK* -- LM317-power-supply.ECP455.NCC.pcb -- Mon Mar 18 18:54:06 2024
+
+
+*PART*
+U2 LM317H
+
+*SET_ATTRIBUTE* PARTTYPE LM317H
+"Description" POSITIVE VOLTAGE REGULATOR; ADJUSTABLE
+"Cost" 
+"Part Number" LM317H
+"Manufacturer #1" NATIONAL SEMICONDUCTOR
+"Manufacturer #2" 
+*END*
+*PADS-ECO-V10.0-MILS*
+
+*REMARK* -- LM317-power-supply.ECP455.NCC.pcb -- Mon Mar 18 19:19:22 2024
+
+
+*PART*
+U2 LM317H
+
+*SET_ATTRIBUTE* PARTTYPE LM317H
+"Description" POSITIVE VOLTAGE REGULATOR; ADJUSTABLE
+"Cost" 
+"Part Number" LM317H
+"Manufacturer #1" MOTOROLA
+"Manufacturer #2" 
+*END*
+*PADS-ECO-V10.0-MILS*
+
+*REMARK* -- LM317-power-supply.ECP455.NCC.pcb -- Mon Mar 18 19:40:36 2024
+
+*END*
+*PADS-ECO-V10.0-MILS*
+
+*REMARK* -- LM317-power-supply.ECP455.NCC.pcb -- Mon Mar 18 19:41:28 2024
+
+
+*PART*
+U2 LM317K
+
+*SET_ATTRIBUTE* PARTTYPE LM317K
+"Description" POSITIVE VOLTAGE REGULATOR; ADJUSTABLE
+"Cost" 
+"Part Number" LM317K
+"Manufacturer #1" MOTOROLA
+"Manufacturer #2" 
+
+*CHGPART*
+U1 LM317BT LM317BT
+*END*
+*PADS-ECO-V10.0-MILS*
+
+*REMARK* -- LM317-power-supply.ECP455.NCC.pcb -- Mon Mar 18 19:46:21 2024
+
+
+*PART*
+U2 LM317LZ
+
+*SET_ATTRIBUTE* PARTTYPE LM317LZ
+"Description" POSITIVE VOLTAGE REGULATOR; ADJUSTABLE
+"Cost" 
+"Part Number" LM317LZ
+"Manufacturer #1" MOTOROLA
+"Manufacturer #2" 
+*END*
+*PADS-ECO-V10.0-MILS*
+
+*REMARK* -- LM317-power-supply.ECP455.NCC.pcb -- Tue Mar 19 10:50:19 2024
+
+
+*PART*
+U2 LM317H
+
+*SET_ATTRIBUTE* PARTTYPE LM317H
+"Description" POSITIVE VOLTAGE REGULATOR; ADJUSTABLE
+"Cost" 
+"Part Number" LM317H
+"Manufacturer #1" MOTOROLA
+"Manufacturer #2" 
+
+*DELPIN*
+U1.1    $$$15132
+U1.2    $$$15101
+D5.K    $$$15185
+U1.3    $$$15185
+
+*DELPART*
+U1 LM317BT
+U2 LM317H
+
+*PART*
+U1 LM317H
+
+*SET_ATTRIBUTE* PARTTYPE LM317H
+"Description" POSITIVE VOLTAGE REGULATOR; ADJUSTABLE
+"Cost" 
+"Part Number" LM317H
+"Manufacturer #1" MOTOROLA
+"Manufacturer #2" 
+
+*NET*
+*SIGNAL* $$$15132 30
+R1.1 U1.1
+*SIGNAL* $$$15101 30
+D5.A U1.2
+*SIGNAL* $$$15185 30
+D2.K U1.3
+U1.3 D5.K
+
+*PART*
+R4 SIP-3P
+
+*SET_ATTRIBUTE* PARTTYPE SIP-3P
+"Description" GENERIC 3 PIN SIP .100 CENTERS
+
+*DELPART*
+R4 SIP-3P
+
+*PART*
+C5 CAP-CC06
+
+*SET_ATTRIBUTE* PARTTYPE CAP-CC06
+"Description" RADIAL CERAMIC CAPACITOR, MIL-SPEC SIZE CK06
+"Part Number" CC06CGXXXX
+"Value" ???
+"Tolerance" ???
+"Manufacturer #1" KEMET
+"Cost" 
+
+*PART*
+C6 CAP-CC06
+
+*DELPIN*
+J1.2    $$$15341
+J1.1    $$$15360
+J2.1    $$$15101
+J2.2    GND
+
+*DELPART*
+J1 HEADER02
+J2 HEADER02
+
+*NET*
+*SIGNAL* $$$15101 30
+C4.1 C6.2
+*SIGNAL* GND 30
+C4.2 C6.1
+*SIGNAL* $$$15185 30
+D1.K C5.2
+*SIGNAL* $$$15360 30
+D1.A C5.1
+*MODIFY_GENERAL_RULES* CLEARANCE
+HIERARCHY_OBJECT  PCB:PCB
+MIN_TRACK_WIDTH           18
+REC_TRACK_WIDTH           30
+MAX_TRACK_WIDTH           180
+TRACK_TO_TRACK            14
+VIA_TO_TRACK              14
+VIA_TO_VIA                14
+PAD_TO_TRACK              14
+PAD_TO_VIA                14
+PAD_TO_PAD                14
+SMD_TO_TRACK              14
+SMD_TO_VIA                14
+SMD_TO_PAD                14
+SMD_TO_SMD                14
+COPPER_TO_TRACK           14
+COPPER_TO_VIA             14
+COPPER_TO_PAD             14
+COPPER_TO_SMD             14
+COPPER_TO_COPPER          14
+TEXT_TO_TRACK             14
+TEXT_TO_VIA               14
+TEXT_TO_PAD               14
+TEXT_TO_SMD               14
+OUTLINE_TO_TRACK          14
+OUTLINE_TO_VIA            14
+OUTLINE_TO_PAD            14
+OUTLINE_TO_SMD            14
+OUTLINE_TO_COPPER         14
+DRILL_TO_TRACK            14
+DRILL_TO_VIA              14
+DRILL_TO_PAD              14
+DRILL_TO_SMD              14
+DRILL_TO_COPPER           14
+SAME_NET_SMD_TO_VIA       6
+SAME_NET_SMD_TO_CRN       6
+SAME_NET_VIA_TO_VIA       6
+SAME_NET_PAD_TO_CRN       6
+SAME_NET_TRACK_TO_CRN     6
+DRILL_TO_DRILL            14
+BODY_TO_BODY              10
+
+*MODIFY_GENERAL_RULES* CLEARANCE
+HIERARCHY_OBJECT  PCB:PCB
+MIN_TRACK_WIDTH           18
+REC_TRACK_WIDTH           30
+MAX_TRACK_WIDTH           180
+TRACK_TO_TRACK            20
+VIA_TO_TRACK              20
+VIA_TO_VIA                20
+PAD_TO_TRACK              20
+PAD_TO_VIA                20
+PAD_TO_PAD                20
+SMD_TO_TRACK              20
+SMD_TO_VIA                20
+SMD_TO_PAD                20
+SMD_TO_SMD                20
+COPPER_TO_TRACK           20
+COPPER_TO_VIA             20
+COPPER_TO_PAD             20
+COPPER_TO_SMD             20
+COPPER_TO_COPPER          20
+TEXT_TO_TRACK             20
+TEXT_TO_VIA               20
+TEXT_TO_PAD               20
+TEXT_TO_SMD               20
+OUTLINE_TO_TRACK          20
+OUTLINE_TO_VIA            20
+OUTLINE_TO_PAD            20
+OUTLINE_TO_SMD            20
+OUTLINE_TO_COPPER         20
+DRILL_TO_TRACK            20
+DRILL_TO_VIA              20
+DRILL_TO_PAD              20
+DRILL_TO_SMD              20
+DRILL_TO_COPPER           20
+SAME_NET_SMD_TO_VIA       6
+SAME_NET_SMD_TO_CRN       6
+SAME_NET_VIA_TO_VIA       6
+SAME_NET_PAD_TO_CRN       6
+SAME_NET_TRACK_TO_CRN     6
+DRILL_TO_DRILL            14
+BODY_TO_BODY              10
+
+*END*
+*PADS-ECO-V10.0-MILS*
+
+*REMARK* -- LM317-power-supply.ECP455.NCC.pcb -- Tue Mar 19 12:34:49 2024
+
+
+*DELPIN*
+C5.2    $$$15185
+
+*NET*
+*SIGNAL* $$$15341 30
+D2.A C5.2
+*END*

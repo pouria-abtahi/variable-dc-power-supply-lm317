@@ -1,0 +1,35 @@
+Index,Part name,Part #,Manufacturer Part Number,Description,link,Quantity,Unit Price,Extended Price
+1,JUMPER WIRE,1568-1513-ND,PRT-12796,"JUMPER WIRE F/F 6"" 20PCS",https://www.digikey.ca/en/products/detail/sparkfun-electronics/PRT-12796/5993861,1,3.01,3.01
+2,LM317T,497-1575-5-ND,LM317T,IC REG LINEAR POS ADJ 1.5A TO220,https://www.digikey.ca/en/products/detail/stmicroelectronics/LM317T/591677,1,1.16,1.16
+3,STANDOFF,36-8413-ND,8413,"HEX STANDOFF #6-32 ALUMINUM 3/8""",https://www.digikey.ca/en/products/detail/keystone-electronics/8413/255381,4,0.75,3.00
+4,HEX NUT,36-9602-ND,9602,"HEX NUT 5/16"" STEEL 6-32",https://www.digikey.ca/en/products/detail/keystone-electronics/9602/2746249,25,0.07,1.84
+5, SCREW PAN,36-9903-ND,9903,MACHINE SCREW PAN PHILLIPS 6-32,https://www.digikey.ca/en/products/detail/keystone-electronics/9903/317324,25,0.17,4.35
+6,FUSE GLASS,0217001.MXBP-ND,0217001.MXBP,FUSE GLASS 1A 250VAC 5X20MM,https://www.digikey.ca/en/products/detail/littelfuse-inc/0217001-MXBP/3425226,1,1.68,1.68
+7,FUSE Holder,F1903-ND,03455LF2H,FUSE HLDR CART 250V 10A PNL MNT,https://www.digikey.ca/en/products/detail/littelfuse-inc/03455LF2H/553821,1,8.93,8.93
+8,DIODE,1N4001-E3/73GICT-ND,1N4001-E3/73,DIODE GEN PURP 50V 1A DO204AL,https://www.digikey.ca/en/products/detail/vishay-general-semiconductor-diodes-division/1N4001-E3-73/2139878,10,0.25,2.48
+9,CAP ALUM 470UF,493-12789-1-ND,UVR1H471MHD1TO,CAP ALUM 470UF 20% 50V RADIAL,https://www.digikey.ca/en/products/detail/nichicon/UVR1H471MHD1TO/1978711,1,1.13,1.13
+10,CAP ALUM 1UF,399-ESS105M050AB2EACT-ND,ESS105M050AB2EA,CAP ALUM 1UF 20% 50V RADIAL,https://www.digikey.ca/en/products/detail/kemet/ESS105M050AB2EA/13176653,1,0.30,0.30
+11,CAP ALUM 10UF,399-ESK106M050AC3DACT-ND,ESK106M050AC3DA,CAP ALUM 10UF 20% 50V RADIAL,https://www.digikey.ca/en/products/detail/kemet/ESK106M050AC3DA/13176616,1,0.30,0.30
+12,CAP ALUM 1000UF,399-6623-ND,ESW108M050AM7AA,CAP ALUM 1000UF 20% 50V RADIAL,https://www.digikey.ca/en/products/detail/kemet/ESW108M050AM7AA/3083038,1,3.22,3.22
+13,RES 1K OHM,13-CFR-25JT-52-1KCT-ND,CFR-25JT-52-1K,RES 1K OHM 5% 1/4W AXIAL,https://www.digikey.ca/en/products/detail/yageo/CFR-25JT-52-1K/9098558,1,0.15,0.15
+14,RES 560 OHM,13-CFR-25JR-52-560RCT-ND,CFR-25JR-52-560R,RES 560 OHM 5% 1/4W AXIAL,https://www.digikey.ca/en/products/detail/yageo/CFR-25JR-52-560R/11968,1,0.15,0.15
+15,POT 10K OHM,716-P16NP103MAB15F3-ND,P16NP103MAB15F3,POT 10K OHM 1W CERMET LINEAR,https://www.digikey.ca/en/products/detail/vishay-sfernice/P16NP103MAB15F3/18834357,1,24.57,24.57
+16,HANDLE STEEL,377-1236-ND,H-9168-B,"HANDLE STEEL/CHROME MTG CTR 3""",https://www.digikey.ca/en/products/detail/bud-industries/H-9168-B/428985,1,9.16,9.16
+17,CONN BIND POST-RED,1568-1664-ND,PRT-09739,CONN BIND POST KNURLED RED,https://www.digikey.ca/en/products/detail/sparkfun-electronics/PRT-09739/7393680,1,0.64,0.64
+18,CONN BIND POST BLACK,1568-1665-ND,PRT-09740,CONN BIND POST KNURLED BLACK,https://www.digikey.ca/en/products/detail/sparkfun-electronics/PRT-09740/7393681,1,0.64,0.64
+19,CABLE GLAND,2181-S2211-ND,S2211,CABLE GLAND 2-7MM PG11 POLYAMIDE,https://www.digikey.ca/en/products/detail/lapp/S2211/11200229,1,4.22,4.22
+20,CORD 18AWG,839-1184-ND,11-00021,CORD 18AWG NEMA5-15P - CBL 3.28',https://www.digikey.ca/en/products/detail/tensility-international-corp/11-00021/3900583,1,5.46,5.46
+21,TERMINAL BLOCK 2POS,732-10955-ND,691138000000,TERM BLK 2POS SIDE ENTRY 5MM PCB,https://www.digikey.ca/en/products/detail/w%C3%BCrth-elektronik/691137710002/6644051,2,0.59,1.18
+22,CONNECTOR,WM14179CT-ND,190020012,CONN QC RCPT 18-22AWG 0.187,https://www.digikey.ca/en/products/detail/molex/0190020012/3186297,10,0.55,5.54
+23,MACHINE SCREW,36-9906-ND,9906,MACHINE SCREW PAN PHILLIPS 8-32,https://www.digikey.ca/en/products/detail/keystone-electronics/9906/317327,7,0.29,2.03
+24,HEX NUT,36-9603-ND,9603,"HEX NUT 1/4"" STEEL 8-32",https://www.digikey.ca/en/products/detail/keystone-electronics/9603/2746250,25,0.07,1.87
+25,CAP ALUM 470UF,399-6658-1-ND,ESK477M063AL4EA,CAP ALUM 470UF 20% 63V RADIAL,https://www.digikey.ca/en/products/detail/kemet/ESK477M063AL4EA/3083073,1,1.15,1.15
+26,CAP ALUM 1UF,732-8966-1-ND,860021000000,CAP ALUM 1UF 20% 63V RADIAL,https://www.digikey.ca/en/products/detail/w%C3%BCrth-elektronik/860020772005/5727201,1,0.17,0.17
+27,CONNECTOR RCPT 6POS,ED6536-06-ND,801-43-006-10-012000,CONN RCPT 6POS 0.1 GOLD PCB,https://www.digikey.ca/en/products/detail/mill-max-manufacturing-corp/801-43-006-10-012000/1212355,2,1.98,3.96
+28,LOCKING QD,900-0194390002-ND,194390002,.250X.032 LOCKING QD VIBRAKRIMP,https://www.digikey.ca/en/products/detail/molex/0194390002/21282380,10,0.57,5.67
+29,CONNECTOR QC,61454-1-ND,61454-1,CONN QC RCPT 20-24AWG 0.062,https://www.digikey.ca/en/products/detail/te-connectivity-amp-connectors/61454-1/297664,10,0.34,3.42
+30,LM317LILPR,296-LM317LILPRCT-ND,LM317LILPR,IC REG LIN POS ADJ 100MA TO92-3,https://www.digikey.ca/en/products/detail/texas-instruments/LM317LILPR/1143644,1,1.41,1.41
+31,CAP ALUM 10UF,399-ESK106M010AC3AA-ND,ESK106M010AC3AA,CAP ALUM 10UF 20% 10V RADIAL,https://www.digikey.ca/en/products/detail/kemet/ESK106M010AC3AA/13176733,1,0.36,0.36
+32,CAP ALUM 1000UF,493-1270-ND,UVZ1A102MPD,CAP ALUM 1000UF 20% 10V RADIAL,https://www.digikey.ca/en/products/detail/nichicon/UVZ1A102MPD/589011,1,0.88,0.88
+33,Enclosure,CN-5708,BUD Industries,"Die Cast Aluminum Enclosure 6.51"" L x 5.01"" W x 3.05"" H, Natural",https://www.amazon.ca/dp/B005T78D8K?ref_=cm_sw_r_cso_cp_apin_dp_YKTRBCG8V9BH4THZMBFB&starsLeft=1,1,34.49,34.49
+,,,,,,,TOTAL(EXCLUDE TAX):,138.52
